@@ -18,14 +18,15 @@ I'm **Neeraj Sharma**, a passionate Flutter Developer with 5+ years of experienc
 [View it live](https://Nikks98.github.io/neeraj-portfolio)
 
 ## Projects Highlight
+
 | Project       | Description                                                                 |
-|--------------|-----------------------------------------------------------------------------|
-| Texfo        | All-in-one platform for textile calculations & cash management             |
-| REGITIQ      | Corporate management platform streamlining HR, leadership & operations     |
-| Jewel-Lines  | Jewelry engagement app transforming the user shopping experience           |
-| RegCRM       | Mobile CRM app for managing clients and property sales                     |
-| RideNest     | E-commerce bike gear app with audio, maps & cart features                  |
-| Calendar App | CRUD calendar with modern UI using Provider                                |
+|---------------|-----------------------------------------------------------------------------|
+| [Texfo](https://apps.apple.com/in/app/texfo/id6478456851)         | All-in-one platform for textile calculations & cash management             |
+| [REGITIQ](https://apps.apple.com/in/app/regitiq/id6469681292)     | Corporate management platform streamlining HR, leadership & operations     |
+| [Jewel-Lines](https://apps.apple.com/in/app/jewel-lines/id6450709524) | Jewelry engagement app transforming the user shopping experience           |
+| [RegCRM](https://apps.apple.com/in/app/regcrm/id6449463983)       | Mobile CRM app for managing clients and property sales                     |
+| [RideNest](https://github.com/Nikks98/plugin_app_v1)              | E-commerce bike gear app with audio, maps & cart features                  |
+| [Calendar App](https://github.com/Nikks98/Calendar-App)           | CRUD calendar with modern UI using Provider                                |
 
 ## Contact
 Feel free to reach out via email or LinkedIn:
