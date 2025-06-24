@@ -1,16 +1,61 @@
-# untitled1
+# Neeraj Sharma | Flutter Developer Portfolio
 
-A new Flutter project.
+Welcome to my personal Flutter Web Portfolio! This site showcases who I am, the skills I bring, and the apps I've built across both Android and iOS platforms.
 
-## Getting Started
+![Portfolio Demo](portfolio_preview.gif)
 
-This project is a starting point for a Flutter application.
+## About Me
+I'm **Neeraj Sharma**, a passionate Flutter Developer with 5+ years of experience in building high-performance, cross-platform mobile applications. I specialize in:
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter & Dart
+- Firebase & REST APIs
+- GetX & Provider for state management
+- Clean Architecture & MVVM
+- Figma to Flutter UI development
+- GitHub & App Store deployments
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Live Portfolio
+[View it live](https://Nikks98.github.io/neeraj-portfolio)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Projects Highlight
+| Project       | Description                                                                 |
+|--------------|-----------------------------------------------------------------------------|
+| Texfo        | All-in-one platform for textile calculations & cash management             |
+| REGITIQ      | Corporate management platform streamlining HR, leadership & operations     |
+| Jewel-Lines  | Jewelry engagement app transforming the user shopping experience           |
+| RegCRM       | Mobile CRM app for managing clients and property sales                     |
+| RideNest     | E-commerce bike gear app with audio, maps & cart features                  |
+| Calendar App | CRUD calendar with modern UI using Provider                                |
+
+## Contact
+Feel free to reach out via email or LinkedIn:
+
+- neerajsharma74824@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/neeraj-sharma-6aa10b1b6/)
+- [GitHub](https://github.com/Nikks98)
+
+## Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
+## Contributing
+
+Contributions and suggestions are welcome! To contribute:
+
+1. Fork this repository
+2. Create a new branch (`git checkout -b feature/your-feature`)
+3. Commit your changes (`git commit -m 'Add: your feature'`)
+4. Push to the branch (`git push origin feature/your-feature`)
+5. Open a Pull Request
+
+Please follow Flutter best practices and ensure clean code.
+
+---
+
+### Issues
+If you find a bug or have a feature request, please [open an issue](https://github.com/Nikks98/neeraj-portfolio/issues).
+
+---
+
+> Deployed with GitHub Pages • Built using Flutter Web
